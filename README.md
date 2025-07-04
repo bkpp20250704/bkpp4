@@ -13,4 +13,4 @@
 
 网站采用响应式设计和CDN加速技术，保证播放流畅不卡顿，页面加载快速，无广告干扰。所有影片配有详细简介、女优资料和相关标签，方便筛选和浏览。分类清晰，支持按番号、女优、类型快速搜索，提升用户体验。这里是稳定、安全、内容丰富的日本AV免费资源站，欢迎收藏使用。请合理使用资源，遵守当地法律法规，理性观影。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/bkpp20250704/bkpp4 ）</span>
